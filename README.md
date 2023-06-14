@@ -6,6 +6,7 @@
 * HTML 
 * CSS 
 * JS 
+* Jquery
 * Bootstrap
 
 <b> IDE : </b> 
@@ -30,6 +31,6 @@
 * By addressing the need for accessible and high-quality online education, our project aims to bridge the gap between learners and educational opportunities, enabling individuals to acquire new skills, enhance their knowledge, and advance their personal and professional growth in a convenient and efficient manner. The purpose and basic functionality of the project align with the problem statement, as we are creating a solution that provides a comprehensive e-learning experience tailored to the needs and preferences of learners.
   
 <b> Primary Azure Technology : </b>
-  * App Service
+  * Azure Bot Service
   * Static Web Apps
-  * Web
+  * Azure Cognitive Search
