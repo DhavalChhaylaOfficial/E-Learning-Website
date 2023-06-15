@@ -1,6 +1,7 @@
 # E-learning-Website 
 
-<b> This is a E-learning Front End website </b> 
+<b> This is a E-learning Front End website </b> <br>
+- [Demonstrating Video](https://drive.google.com/file/d/1VOcHcI9wRkib6uPXvfR1PHcKYTY5wG0C/view?usp=sharing)
 
 <b> Web Technologies used : </b> 
 * HTML 
@@ -31,6 +32,13 @@
 * By addressing the need for accessible and high-quality online education, our project aims to bridge the gap between learners and educational opportunities, enabling individuals to acquire new skills, enhance their knowledge, and advance their personal and professional growth in a convenient and efficient manner. The purpose and basic functionality of the project align with the problem statement, as we are creating a solution that provides a comprehensive e-learning experience tailored to the needs and preferences of learners.
   
 <b> Primary Azure Technology : </b>
-  * Azure Bot Service
-  * Static Web Apps
-  * Azure Cognitive Search
+  * Azure Bot Service: 
+    - The website utilizes Azure Bot Service to deliver personalized and interactive learning content to users. The AI-powered bot is designed to help users solve doubts and                  provide guidance related to AI (Artificial Intelligence) topics.
+  * Static Web Apps: 
+    - The website uses Azure Static Web Apps service for hosting, delivering fast page loads and offline access.
+  * Azure Cognitive Search: 
+    - Azure Cognitive Search is integrated for ChatBot Making.
+ 
+ 
+
+
